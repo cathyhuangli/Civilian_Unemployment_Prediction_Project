@@ -19,7 +19,7 @@ Next, we implemented Model fitting and selection.
 Finally, we forecast the next 12 month's unemployment rate based on the selected model by BIC and Back testing method
 
 Original vs Forecast from year 2012-2017
-
+![Original vs Forecast from year 2012-2017](https://github.com/cathyhuangli/Time_Series_Prediction_Project/blob/master/Forecasts%20from%20Year%202012%20to%202017.png)
 
 
 ## Result
